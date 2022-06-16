@@ -1,0 +1,7 @@
+2
+1) S. Ivanov 99
+2) V. Petrov 98
+3) P. Segeev 92
+4) P. Segeev 92
+5) M. Vasiliev 87
+6) S. Zubatov 86
